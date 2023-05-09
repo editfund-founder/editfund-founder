@@ -12,7 +12,7 @@ flowchart LR
     A-->edit.fund
     edit.fund-->C
     C-->D
-    click edit.fund "https://www.edit.fund"
+    click edit.fund "https://edit.fund"
 ```
 
 
