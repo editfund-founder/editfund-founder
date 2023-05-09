@@ -9,10 +9,10 @@
 
 ```mermaid
 flowchart LR
-    A-->B
-    B-->C
+    A-->edit.fund
+    edit.fund-->C
     C-->D
-    click B "https://www.edit.fund" "This is a tooltip for a link"  _blank
+    click B "https://www.edit.fund"
 ```
 
 
