@@ -7,6 +7,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+```mermaid
+flowchart LR
+    A-->B
+    B-->C
+    C-->D
+    click B "https://www.edit.fund" "This is a tooltip for a link"  _blank
+```
+
 
 
 
