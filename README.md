@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on AI
-- 🌱 I’m currently learning AI
+- 🌱 <span style="color: #FFFFFF;background-color:#18941DCC">I’m currently lear</span><span style="color: #F44336;background-color:#E6E6E6">ning AI</span>
 - 👯 I’m looking to collaborate on AI
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about AI
