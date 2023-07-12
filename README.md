@@ -1,3 +1,5 @@
+Let's go! <span style="color: #ffffff;background-color:#ff0000 ">ʕ◔ϖ◔ʔ</span>
+
 - 🔭 I’m currently working on AI
 - 🌱 <span style="color: #FFFFFF;background-color:#18941DCC">I’m currently lear</span><span style="color: #F44336;background-color:#E6E6E6">ning AI</span>
 - 👯 I’m looking to collaborate on AI
